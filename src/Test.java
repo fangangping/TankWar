@@ -16,5 +16,8 @@ public class Test {
         return super.hashCode();
     }
 
-
+    @Override
+    public boolean equals(Object obj) {
+        i
+    }
 }
